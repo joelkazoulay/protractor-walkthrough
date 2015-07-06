@@ -3,4 +3,5 @@
     describe('On: dashboard page', function() {
 
     });
+
 })();
